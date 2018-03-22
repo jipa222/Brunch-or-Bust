@@ -22,7 +22,7 @@ p{
 }
 .image-bg{
   padding: 10px;
-  color: black;
+  color: white;
 
   background-image: url("../images/bg-image.jpg");
   background-repeat: no-repeat;
