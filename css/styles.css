@@ -20,6 +20,11 @@ p{
   text-align: center;
   line-height: 32px;
 }
+.image-bg{
+  text: white;
+  text-align: center;
+  background-image: url(images/bg-image.jpg);
+}
 
 #nav{
   border:1px solid black;
