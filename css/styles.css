@@ -43,8 +43,8 @@ p{
 
   padding-top: 100px;
 }
-.text-center{
-  font-family: 'Open Sans Condensed', sans-serif;
+.col-sm-4{
+  line-height: 32px;
 }
 
 #nav{
