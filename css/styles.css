@@ -45,8 +45,9 @@ p{
 }
 .col-sm-4{
   line-height: 32px;
-  
+
   font-family: 'Amatic SC', cursive;
+  font-size: 20px;
 }
 .jumbotron{
   font-family: 'Amatic SC', cursive;
