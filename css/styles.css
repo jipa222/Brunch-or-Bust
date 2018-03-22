@@ -52,6 +52,7 @@ p{
 .jumbotron{
   font-family: 'Amatic SC', cursive;
   font-weight: bold;
+  background-color: lightgreen;
 }
 #nav{
   border:1px solid black;
