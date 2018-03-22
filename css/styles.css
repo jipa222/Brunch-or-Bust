@@ -21,9 +21,21 @@ p{
 }
 .image-bg{
   padding: 10px;
-  color: red;
+  color: grey;
 
   background-image: url("../images/bg-image.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+
+  text-align: center;
+
+  padding-top: 100px;
+}
+.paragraph-bg{
+  padding: 10px;
+  color: grey;
+
+  background-image: url("../images/generic-pancake-guy.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
 
