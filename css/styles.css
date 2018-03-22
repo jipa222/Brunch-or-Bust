@@ -21,7 +21,7 @@ p{
 }
 .image-bg{
   padding: 10px;
-  color: grey;
+  color: white;
 
   background-image: url("../images/bg-image.jpg");
   background-repeat: no-repeat;
@@ -45,6 +45,10 @@ p{
 }
 .col-sm-4{
   line-height: 32px;
+  font-family: 'Amatic SC', cursive;
+}
+.jumbotron{
+  font-family: 'Amatic SC', cursive;
 }
 
 #nav{
