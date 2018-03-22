@@ -21,9 +21,20 @@ p{
   line-height: 32px;
 }
 .image-bg{
-  text: white;
-  text-align: center;
+  font-size: 60px;
+  padding: 10px;
+  color: black;
+
+  border: 1px red solid;
+
   background-image: url("../images/bg-image.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+
+  height: 300px;
+  text-align: center;
+
+  padding-top: 100px;
 }
 
 #nav{
