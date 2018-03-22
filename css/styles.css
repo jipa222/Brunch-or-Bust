@@ -43,6 +43,9 @@ p{
 
   padding-top: 100px;
 }
+.col-sm-4{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
 
 #nav{
   border:1px solid black;
