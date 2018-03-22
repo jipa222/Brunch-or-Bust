@@ -23,7 +23,7 @@ p{
 .image-bg{
   text: white;
   text-align: center;
-  background-image: url(../images/bg-image.jpg);
+  background-image: url(images/bg-image.jpg);
 }
 
 #nav{
