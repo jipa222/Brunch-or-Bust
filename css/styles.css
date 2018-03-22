@@ -33,9 +33,9 @@ p{
 }
 .paragraph-bg{
   padding: 10px;
-  color: grey;
+  color: white;
 
-  background-image: url("../images/generic-pancake-guy.jpg");
+  background-image: url("../images/cutting-board-bg.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
 
